@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAK;EAAC,gBAAgB,EAAE,OAAO;;AAC/B,OAAO;EACL,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,MAAM;EAClB,aAAK;IACH,MAAM,EAAE,IAAI;IACZ,KAAK,EAAE,IAAI;IACX,MAAM,EAAE,IAAI;IACZ,MAAM,EAAE,wBACV;;AAEF,UAAU;EACR,MAAM,EAAE,IAAI",
+"sources": ["task-index-style.scss"],
+"names": [],
+"file": "task-index-style"
+}
